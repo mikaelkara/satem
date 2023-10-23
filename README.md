@@ -1,31 +1,34 @@
 ## Winget.run Kullanımı
 
-Winget.run, Windows 11 ve Windows 10'da kullanılan bir komut satırı aracıdır. Bu araç, paketleri yüklemek, kaldırmak, güncellemek ve diğer işlemleri gerçekleştirmek için kullanılabilir.
 
-**Örnek Kullanımlar**
-
-İşte Winget.run'ın bazı örnek kullanımları:
-
-* **Bir paketi yüklemek için:**
-
-## Winget.run Kullanımı
+<details>
+**Winget.run Kullanımı**
 
 Winget.run, Windows 11 ve Windows 10'da kullanılan bir komut satırı aracıdır. Bu araç, paketleri yüklemek, kaldırmak, güncellemek ve diğer işlemleri gerçekleştirmek için kullanılabilir.
 
-**Örnek Kullanımlar**
+Winget.run'ın kullanımı oldukça basittir. Aşağıdaki örnekte, notepad++ paketini yüklemek için Winget.run'ı nasıl kullanacağımızı görebiliriz:
 
-İşte Winget.run'ın bazı örnek kullanımları:
+```
+winget run notepad++
+```
 
-* **Bir paketi yüklemek için:**
+Bu komut, notepad++ paketini indirir ve yükler.
 
-GitHub'da README.md dosyası içerisinde açılır kapanır halde yazı yazmak için, **markdown** dilindeki `<details>` ve `</details>` etiketlerini kullanabilirsiniz.
+Winget.run'ın desteklediği diğer komutlar şunlardır:
 
-Örneğin, aşağıdaki kod, "Winget.run Kullanımı" başlıklı bir açılır kapanır bölüm oluşturur:
+* **uninstall:** Bir paketi kaldırır.
+* **update:** Bir paketi günceller.
+* **list:** Yüklü paketleri listeler.
+* **search:** Bir paketi arar.
+* **help:** Winget.run hakkında yardım sağlar.
 
-```markdown
-## Winget.run Kullanımı
+Winget.run'ı kullanmadan önce, Winget'i bilgisayarınıza yüklemeniz gerekir. Winget'i yüklemek için aşağıdaki komutu çalıştırabilirsiniz:
 
-Winget.run, Windows 11 ve Windows 10'da kullanılan bir komut satırı aracıdır. Bu araç, paketleri yüklemek, kaldırmak, güncellemek ve diğer işlemleri gerçekleştirmek için kullanılabilir.
+```
+winget install winget
+```
+
+Winget.run hakkında daha fazla bilgi için, Winget'in resmi web sitesini: https://docs.microsoft.com/en-us/windows/package-manager/winget ziyaret edebilirsiniz.
 
 **Örnek Kullanımlar**
 
@@ -41,17 +44,31 @@ winget run notepad++
 
 ```
 winget uninstall notepad++
+```
 
+* **Bir paketi güncellemek için:**
 
-**İleri Seviye Kullanımlar**
+```
+winget update notepad++
+```
 
-Winget.run, paketleri yüklemek, kaldırmak, güncellemek ve diğer işlemleri gerçekleştirmek için çeşitli seçenekler sunar. Bu seçenekler, Winget.run'ı daha esnek ve güçlü bir araç haline getirir.
+* **Yüklü paketleri listelemek için:**
 
-**Ayrıntılar**
+```
+winget list
+```
 
+* **Bir paketi aramak için:**
 
-<details>
-<summary>Ayrıntılar</summary>
+```
+winget search notepad++
+```
+
+* **Winget.run hakkında yardım almak için:**
+
+```
+winget run winget --help
+```
 
 **İleri Seviye Kullanımlar**
 
@@ -72,17 +89,6 @@ Diğer seçenekler şunlardır:
 * **--silent:** Paketi sessizce yükler.
 * **--force:** Paketi güncellemek için mevcut sürümü kaldırır.
 
-**İlgili Bağlantılar**
-
-* Winget.run'ın resmi web sitesi: https://docs.microsoft.com/en-us/windows/package-manager/winget
+Winget.run'ın seçenekleri hakkında daha fazla bilgi için, Winget'in resmi web sitesini: https://docs.microsoft.com/en-us/windows/package-manager/winget ziyaret edebilirsiniz.
 
 </details>
-
-
-Bu kod, `<details>` etiketi ile bir bölüm başlatır. `<summary>` etiketi ise, bölüm başlığını belirtir. Kullanıcı, bölüm başlığına tıklayarak bölümü açabilir.
-
-Açılır kapanır bölümün içeriğini, `</details>` etiketinin arasında yazabilirsiniz.
-
-Bu örnekte, `<details>` etiketinin içinde, Winget.run'ın ileri seviye kullanımlarını anlatan bir bölüm oluşturdum.
-
-GitHub'da README.md dosyası içerisinde açılır kapanır halde yazı yazmak için, bu etiketleri kullanabilirsiniz.
