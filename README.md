@@ -111,16 +111,25 @@ Deepl Translate, özellikle iş dünyasında ve akademik çalışmalarda sıkça
   Releases Eklendi / Crack
   
   https://chromewebstore.google.com/detail/deepl-%C3%A7eviri-okurken-yaza/cofdbpoegempjloogbagkncekinflcnj?hl=tr
+</details>
 
 ## Microsoft / Office / 365
+<details>
 
 * **irm https://massgrave.dev/get | iex**
 * IDM **irm https://massgrave.dev/ias | iex**
 
+</details>
+
 ## CMWTAT Windows Dijital Lisans
+<details>
+
 * **CloudMoe https://cmwtat.cloudmoe.com**
 
+</details>
+
 ## WINUTIL
+<details>
 
 * **iwr -useb https://christitus.com/win | iex**
     [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
