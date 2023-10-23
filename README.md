@@ -99,7 +99,32 @@ Winget.run'ın seçenekleri hakkında daha fazla bilgi için, Winget'in resmi we
 ## Deepl Translate 
 <details>
 
+Deepl Translate, bir yapay zeka tabanlı çeviri aracıdır. Almanya merkezli bir şirket olan DeepL tarafından geliştirilmiştir ve 2017 yılında piyasaya sürülmüştür. Deepl Translate, diğer çeviri araçlarından farklı olarak, dilbilimsel kurallar ve yapay zeka teknolojilerini bir arada kullanarak daha doğru ve akıcı çeviriler sunmaktadır.
+Deepl Translate, 12 farklı dilde çeviri yapabilmektedir. Bu diller arasında Türkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Hollandaca, Lehçe, Portekizce, Rusça, Japonca ve Çince bulunmaktadır. Deepl Translate, kullanıcılarının çevirilerini kaydetmekte ve gelecekte tekrar kullanılmak üzere saklamaktadır.
+Deepl Translate, özellikle iş dünyasında ve akademik çalışmalarda sıkça kullanılmaktadır. Ayrıca, internet kullanıcıları arasında da popülerliği artmaktadır. Deepl Translate, kullanıcı dostu arayüzü ve yüksek çeviri kalitesi ile dikkat çekmektedir.
+
 *  **Masaüstü**
   https://www.deepl.com/translator
+  https://appdownload.deepl.com/windows/0install/DeepLSetup.exe
+
+*  **Chrome Eklentisi / Crack**
+  Releases Eklendi / Crack
+  
+  https://chromewebstore.google.com/detail/deepl-%C3%A7eviri-okurken-yaza/cofdbpoegempjloogbagkncekinflcnj?hl=tr
+
+## Microsoft / Office / 365
+
+* **irm https://massgrave.dev/get | iex**
+* IDM **irm https://massgrave.dev/ias | iex**
+
+## CMWTAT Windows Dijital Lisans
+* **CloudMoe https://cmwtat.cloudmoe.com**
+
+## WINUTIL
+
+* **iwr -useb https://christitus.com/win | iex**
+    [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
+
+
 
 </details>
