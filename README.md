@@ -142,9 +142,11 @@ Deepl Translate, özellikle iş dünyasında ve akademik çalışmalarda sıkça
 
 *  **https://offcampus.anadolu.edu.tr/**
 </details>
+
 ## Finans'ta Yapay Zeka Kullanımı
 <details>
-
-  **ChatGPTBOX
+  
+**ChatGPTBOX**
 * **https://chromewebstore.google.com/detail/eobbhoofkanlmddnplfhnmkfbnlhpbbo**
+
 </details>
