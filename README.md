@@ -132,8 +132,13 @@ Deepl Translate, özellikle iş dünyasında ve akademik çalışmalarda sıkça
 <details>
 
 * **iwr -useb https://christitus.com/win | iex**
-    [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
 
-
+    **[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')**
 
 </details>
+
+## Anadolu Üniversitesi Offline Kitaplık
+
+*  **https://offcampus.anadolu.edu.tr/**
+
+
