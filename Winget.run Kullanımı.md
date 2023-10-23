@@ -1,6 +1,5 @@
 ## Winget.run Kullanımı
 
-
 <details>
 **Winget.run Kullanımı**
 
