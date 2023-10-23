@@ -98,6 +98,8 @@ Winget.run'ın seçenekleri hakkında daha fazla bilgi için, Winget'in resmi we
 
 ## Deepl Translate 
 <details>
+
+*  **Masaüstü**
   https://www.deepl.com/translator
 
 </details>
