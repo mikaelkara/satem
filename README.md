@@ -138,7 +138,13 @@ Deepl Translate, özellikle iş dünyasında ve akademik çalışmalarda sıkça
 </details>
 
 ## Anadolu Üniversitesi Offline Kitaplık
+<details>
 
 *  **https://offcampus.anadolu.edu.tr/**
+</details>
+## Finans'ta Yapay Zeka Kullanımı
+<details>
 
-
+  **ChatGPTBOX
+* **https://chromewebstore.google.com/detail/eobbhoofkanlmddnplfhnmkfbnlhpbbo**
+</details>
